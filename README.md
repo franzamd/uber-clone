@@ -1,6 +1,8 @@
-# Welcome to your Expo app 👋
+# Welcome to your Expo Uber app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+
+This code is based of the course on Youtube [Build a Full Stack React Native App with Payments | PostgreSQL, TypeScript, Stripe, Tailwind](https://github.com/adrianhajdin/uber/)
 
 ## Get started
 
